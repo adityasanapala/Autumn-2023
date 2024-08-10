@@ -81,17 +81,22 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### MA105 - Calculus
 
-**Venue:** LA001
+**Venue:** LA202
 
 **Schedule:**
 
-- **Slot 9**
-  - **Days:** Monday, Thursday
-  - **Time:** 3:30 PM - 4:55 PM
- 
+- **Slot 2** (Lectures)
+  - **Days:** Monday, Tuesday, Thursday
+  - **Time:** 9:30 AM - 10:25 AM, 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM
+
+ - **Slot X1** (Tutorials)
+  - **Venue:** LT301/LT302/LT303/LT304/LT305/LT001/LT002
+  - **Days:** Wednesday
+  - **Time:** 2:00 PM - 2:55 PM
+
 **Instructor:**
-  - Prof. Subrato Banerjee
-  - Prof. Neha Gupta
+  - Prof. Ravi Raghunathan
+  - Prof. Mayukh Mukherjee
 
 ### NOCS01 - NCC/NSS/NSO
 
