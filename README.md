@@ -89,7 +89,7 @@ This is a collection of all the resources for the courses that me and my friends
   - **Days:** Monday, Tuesday, Thursday
   - **Time:** 9:30 AM - 10:25 AM, 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM
 
- - **Slot X1** (Tutorials)
+- **Slot X1** (Tutorials)
   - **Venue:** LT301/LT302/LT303/LT304/LT305/LT001/LT002
   - **Days:** Wednesday
   - **Time:** 2:00 PM - 2:55 PM
@@ -97,6 +97,8 @@ This is a collection of all the resources for the courses that me and my friends
 **Instructor:**
   - Prof. Ravi Raghunathan
   - Prof. Mayukh Mukherjee
+
+**Website:** [MA105: Calculus](https://www.math.iitb.ac.in/~srg/courses/autumn2019/MA105-D1/index.html)
 
 ### NOCS01 - NCC/NSS/NSO
 
