@@ -7,67 +7,61 @@ This is a collection of all the resources for the courses that me and my friends
 > [!NOTE]  
 > PH117 Labs may vary depending on P14/P15/P16. Here, its being marked assuming you are P15.
 
-| Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 11:30 | 11:35 - 12:30  | 9:30 - 10:55 | 11:05 - 12:30  | 2:00 - 5:00 | 2:00 - 3:25  | 3:30 - 4:55 |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Monday |   | CS230 | CS215 | CS228 |   |   |   |   | EC101 |
-| Tuesday | CS228 |   | CS230 | CS215 |   |   | CS231 |   |   |
-| Wednesday |   |   |   |   | Minor Slot | CS213 |   |   |   |
-| Thursday | CS215 | CS228 |   | CS230 |   |   |   |   | EC101 |
-| Friday |   |   |   |   | Minor Slot | CS213 | CS293 |   |   |
+| Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 11:30 | 11:35 - 12:30  | 9:30 - 10:55 | 11:05 - 12:30  | 2:00 - 5:00 | 2:00 - 2:55  | 3:00 - 3:55 | 4:00 - 4:55
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Monday |   | MA105 |   | CS105 |   |   |   |   |   |   |
+| Tuesday | CS105 |   | MA105 | ENT/SOM/DE |   |   |   |   |   |   |
+| Wednesday |   |   |   |   | ENT/SOM/DE | CS101 |   |   |   | HS |
+| Thursday | HS | MA105 |   | CS105 |   |   | PH117 |   |   |   |
+| Friday |   |   |   |   |   | CS101 |   |   |   |   |
 
 ## Course Logistics
 
-### CS213+293 - Data Structures and Algorithms + Lab
+### CS101 - Computer Programming and Utilization
 
-**Venue:** LA001
+**Venue:** LA202
 
 **Schedule:**
 
-- **Slot 6** (CS213)
+- **Slot 6** (Lectures)
   - **Days:** Wednesday, Friday
   - **Time:** 11:05 AM - 12:30 PM
 
-- **Slot L4** (CS293)
-  - **Day:** Friday
-  - **Time:** 2:00 PM - 5:00 PM
+- **Lab:**
+  - **Venue:** SL1/SL2/SL3, Computer Center, IIT Bombay
+  - **Day:** Wednesday
+  - **Time:** 8:30 PM - 10:25 PM
  
-**Instructor:** Prof. Ashutosh Kumar Gupta
+**Instructor:** Prof. Suyash P. Awate
 
-**Website:** [CS213/293: Data Structure and Algorithms 2024](https://www.cse.iitb.ac.in/~akg/courses/2024-ds/)
+**Website:** [CS101: Computer Programming and Utilization 2023](https://www.cse.iitb.ac.in/~cs101/2023.1/index.html)
 
+### CS105 - Discrete Structures
 
-
-
-### CS215 - Data Analysis and Interpretation
-
-**Venue:** LA001
+**Venue:** LA202
 
 **Schedule:**
 
-- **Slot 3**
-  - **Days:** Monday, Tuesday, Thursday
-  - **Time:** 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM, 8:30 AM - 9:25 AM
- 
-**Instructor:** Prof. Sunita Sarawagi
-
-### CS228 - Logic for Computer Science
-
-**Venue:** LA002
-
-**Schedule:**
-
-- **Slot 4**
+- **Slot 4** (Lectures)
   - **Days:** Monday, Tuesday, Thursday
   - **Time:** 11:35 AM - 12:30 PM, 8:30 AM - 9:25 AM, 9:30 AM - 10:25 AM
-
-- **Tutorial**
-  - **Day:** Monday
-  - **Time:** 9:30 PM - 10:30 PM
-  - **Venue:** CC101/CC103/CC105
  
-**Instructor:** Prof. Krishna Shankara Narayanan
+- **Tutorial:**
+  - **Venue:** CC101, Computer Center, IIT Bombay
+  - **Day:** Tuesday
+  - **Time:** 7:00 PM - 9:00 PM
+ 
+**Instructor:** Prof. S. Akshay
 
-### CS230+231 - Digital Logic Design and Computer Architecture + Lab
+**Website:** [CS105: Discrete Structures 2023](https://www.cse.iitb.ac.in/~akshayss/courses/cs105-2023/cs105-2023.html)
+
+### GC101 - Gender Sensitization Course
+
+**Venue:** Online (Moodle)
+
+
+
+### HSS/IDC/ENT - Introduction to HASMED
 
 **Venue:** LH102
 
@@ -85,7 +79,7 @@ This is a collection of all the resources for the courses that me and my friends
   - Prof. Sayandeep Saha
   - Prof. Bhaskaran Raman
 
-### EC101 - Economics
+### MA105 - Calculus
 
 **Venue:** LA001
 
@@ -99,6 +93,32 @@ This is a collection of all the resources for the courses that me and my friends
   - Prof. Subrato Banerjee
   - Prof. Neha Gupta
 
+### NOCS01 - NCC/NSS/NSO
+
+**Venue:** LA001
+
+**Schedule:**
+
+- **Slot 9**
+  - **Days:** Monday, Thursday
+  - **Time:** 3:30 PM - 4:55 PM
+ 
+**Instructor:**
+  - Prof. Subrato Banerjee
+  - Prof. Neha Gupta
+
+### PH117 - Physics Lab
+
+**Venue:** LA001
+
+**Schedule:**
+
+- **Slot 9**
+  - **Days:** Monday, Thursday
+  - **Time:** 3:30 PM - 4:55 PM
+ 
+**Instructor:**
+  - Prof. Mohamad Aslam
 
 ## Backup Link for the Content
 
