@@ -15,6 +15,14 @@ This is a collection of all the resources for the courses that me and my friends
 | Thursday | HS | MA105 |   | CS105 |   |   | PH117 |   |   |   |
 | Friday |   |   |   |   |   | CS101 |   |   |   |   |
 
+| Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 10:55 | 11:05 - 11:30  | 11:35 - 12:30 | 2:00 - 3:25  | 3:30 - 4:55 |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Monday |   | CS230 | CS215 | CS215 | CS228 |   | EC101 |
+| Tuesday | CS228 |   | CS230 | CS230 | CS215 | CS231 | CS231 |
+| Wednesday |   | Minor Slot | Minor Slot | CS213 | CS213 |   |   |
+| Thursday | CS215 | CS228 |   |   | CS230 |   | EC101 |
+| Friday |   | Minor Slot | Minor Slot | CS213 | CS213 | CS293 | CS293 |
+
 ## Course Logistics
 
 ### CS101 - Computer Programming and Utilization
