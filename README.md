@@ -6,22 +6,17 @@ This is a collection of all the resources for the courses that me and my friends
 
 > [!NOTE]  
 > PH117 Labs may vary depending on P14/P15/P16. Here, its being marked assuming you are P15.
-
-| Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 11:30 | 11:35 - 12:30  | 9:30 - 10:55 | 11:05 - 12:30  | 2:00 - 5:00 | 2:00 - 2:55  | 3:00 - 3:55 | 4:00 - 4:55
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Monday |   | MA105 |   | CS105 |   |   |   |   |   |   |
-| Tuesday | CS105 |   | MA105 | ENT/SOM/DE |   |   |   |   |   |   |
-| Wednesday |   |   |   |   | ENT/SOM/DE | CS101 |   |   |   | HS |
-| Thursday | HS | MA105 |   | CS105 |   |   | PH117 |   |   |   |
-| Friday |   |   |   |   |   | CS101 |   |   |   |   |
+> 
+> If you are P14, your lab is on Tuesday.
+> If you are P16, your lab is on Friday.
 
 | Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 10:55 | 11:05 - 11:30  | 11:35 - 12:30 | 2:00 - 3:25  | 3:30 - 4:55 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Monday |   | CS230 | CS215 | CS215 | CS228 |   | EC101 |
-| Tuesday | CS228 |   | CS230 | CS230 | CS215 | CS231 | CS231 |
-| Wednesday |   | Minor Slot | Minor Slot | CS213 | CS213 |   |   |
-| Thursday | CS215 | CS228 |   |   | CS230 |   | EC101 |
-| Friday |   | Minor Slot | Minor Slot | CS213 | CS213 | CS293 | CS293 |
+| Monday |   | MA105 |   |   | CS105 |   |   |
+| Tuesday | CS105 |   | MA105 | MA105 | ENT/DE/SOM |   |   |
+| Wednesday |   | ENT/DE/SOM | ENT/DE/SOM | CS101 | CS101 |   | HS |
+| Thursday | HS | CS105 |   |   | MA105 | PH117 | PH117 |
+| Friday |   |   |   | CS101 | CS101 |   |   |
 
 ## Course Logistics
 
