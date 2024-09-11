@@ -13,9 +13,9 @@
 ## Exam Schedule
 
 - **Quiz:** Wednesday, 30 August 2023
-- **Midsem:** Midsem Week -
+- **Midsem:** Midsem Week - Monday, 18 September 2023
 - **Project description declared:** Wednesday, 6 September 2023
 - **Project submission deadline:** Tuesday, 14 November 2023
-- **Endsem:** Endsem Week -
+- **Endsem:** Endsem Week - Friday, 17 November 2023
 
 ## Course Website (if any)
