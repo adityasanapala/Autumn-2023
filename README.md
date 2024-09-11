@@ -66,21 +66,7 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### HSS/IDC/ENT - Introduction to HASMED
 
-**Venue:** LH102
-
-**Schedule:**
-
-- **Slot 2** (CS230)
-  - **Days:** Monday, Tuesday, Thursday
-  - **Time:** 9:30 AM - 10:25 AM, 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM
-
-- **Slot L2** (CS231)
-  - **Day:** Tuesday
-  - **Time:** 2:00 PM - 5:00 PM
- 
-**Instructor:**
-  - Prof. Sayandeep Saha
-  - Prof. Bhaskaran Raman
+**Venue:** Varies with subject.
 
 ### MA105 - Calculus
 
@@ -105,27 +91,17 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### NOCS01 - NCC/NSS/NSO
 
-**Venue:** LA001
 
-**Schedule:**
-
-- **Slot 9**
-  - **Days:** Monday, Thursday
-  - **Time:** 3:30 PM - 4:55 PM
- 
-**Instructor:**
-  - Prof. Subrato Banerjee
-  - Prof. Neha Gupta
 
 ### PH117 - Physics Lab
 
-**Venue:** LA001
+**Venue:** Transit Building, IIT Bombay
 
 **Schedule:**
 
-- **Slot 9**
-  - **Days:** Monday, Thursday
-  - **Time:** 3:30 PM - 4:55 PM
+- **X**
+  - **Days:** Thursday
+  - **Time:** 2:00 PM - 4:55 PM
  
 **Instructor:**
   - Prof. Mohamad Aslam
