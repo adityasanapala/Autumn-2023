@@ -2,6 +2,20 @@
 
 ## Logistics
 
+### Instructor
+
+**Prof. Suyash P. Awate**
+
+### Course Incharges
+
+- **Firuza Karmali**
+- **Nagesh Karmali**
+
+### Venue
+
+- **LA202** (Lectures)
+- **SL1/SL2/SL3** (Labs)
+
 ## Grading
 
 - **Weekly Labs:** 10%
