@@ -62,11 +62,9 @@ This is a collection of all the resources for the courses that me and my friends
 
 **Venue:** Online (Moodle)
 
-
-
 ### HSS/IDC/ENT - Introduction to HASMED
 
-**Venue:** Varies with subject.
+**Logistics vary by subject. Please check individual subject README.md file to know more.**
 
 ### MA105 - Calculus
 
