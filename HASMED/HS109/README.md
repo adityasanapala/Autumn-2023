@@ -1,7 +1,5 @@
 # HS109 - Introduction to Philosophy
 
-## Logistics
-
 ## Grading
 
 - **Attendance:** 10%
