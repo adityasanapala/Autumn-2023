@@ -1,7 +1,5 @@
 # CS105 - Discrete Structures
 
-## Logistics
-
 ## Grading
 
 - **Quizzes:** 30%
