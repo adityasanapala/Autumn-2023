@@ -1,7 +1,5 @@
 # ENT101 - Introduction to Innovation & Entrepreneurship
 
-## Logistics
-
 ## Grading
 
 - **Attendance:** 10%
