@@ -1,16 +1,5 @@
 # CS101 - Computer Programming and Utilization
 
-## Logistics
-
-### Instructor
-
-**Prof. Suyash P. Awate**
-
-### Course Incharges
-
-- **Firuza Karmali**
-- **Nagesh Karmali**
-
 ### Venue
 
 - **LA202** (Lectures)
