@@ -1,10 +1,5 @@
 # CS101 - Computer Programming and Utilization
 
-### Venue
-
-- **LA202** (Lectures)
-- **SL1/SL2/SL3** (Labs)
-
 ## Grading
 
 - **Weekly Labs:** 10%
