@@ -10,4 +10,6 @@ int main() {
         cout << term << " ";
         term = term * r;
     }
+
+    cout << endl;
 }
