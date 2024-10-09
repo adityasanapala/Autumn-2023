@@ -1,14 +1,15 @@
-#include <simplecpp>
+#include <iostream>
+using namespace std;
 
-main_program{
-  int a, d, n;
-	cin >> a >> d >> n;
-	int term = a;
-	int multiplier = 0;
-	repeat(n) {
-		term = a + multiplier*d;
-		multiplier++;
-		cout << term << " ";
-	}
-	cout << '\n';
+int main() {
+    int a, d, n;
+    cin >> a >> d >> n;
+    int term = a;
+
+    for (int i = 0; i < n; i++) {
+        cout << term << " ";
+        term = term + d;
+    }
+
+    cout << endl;
 }
