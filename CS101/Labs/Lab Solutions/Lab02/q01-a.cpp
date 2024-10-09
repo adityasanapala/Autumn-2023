@@ -6,7 +6,7 @@ main_program{
 	int term = a;
 	int multiplier = 0;
 	repeat(n) {
-    term = a + multiplier*d;
+		term = a + multiplier*d;
 		multiplier++;
 		cout << term << " ";
 	}
