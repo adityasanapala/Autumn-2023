@@ -1,7 +1,17 @@
-#include <iostream>
-using namespace std;
+#include <simplecpp>
 
-int main() {
+main_program {
+    int n, l;
+    cout << "Enter the number of sides: " << endl;
+    cin >> n;
+    cout << "Enter the length of each side: " << endl;
+    cin >> l;
 
-  return 0;
+    turtleSim();
+    repeat(n) {
+        forward(l);
+        right(360 / n);
+    }
+
+    getClick();
 }
